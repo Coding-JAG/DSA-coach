@@ -28,7 +28,7 @@ body {
 /* Circular Image with Overlay */
 .image-wrapper {
   position: relative;
-  width: 260px;
+  width: 360px;
   height: 420px;
   border-radius: 50%;
   overflow: hidden;
